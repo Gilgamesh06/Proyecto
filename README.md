@@ -1,7 +1,7 @@
 
 # Proyecto: `Clasificacion de cataratas en imagenes oculares.`
 
-<img src="/Images/banner.png" alt="Banner" width="800" height="800">
+<img src="/Images/banner.png" alt="Banner" width="800" height="500">
 
 <hr>
 
