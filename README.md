@@ -1,7 +1,7 @@
 
 # Proyecto: `Clasificacion de cataratas en imagenes oculares.`
-![Diseño sin título](https://github.com/user-attachments/assets/5763623e-e3bf-4d95-bb73-cd70f45be5a2)
 
+![Uploading Approved(1).png…]()
 
 <hr>
 
