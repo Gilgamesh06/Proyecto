@@ -1,7 +1,7 @@
 
 # Proyecto: `Clasificacion de cataratas en imagenes oculares.`
 
-![Uploading Approved(1).png…]()
+<img src="/Images/banner.png" alt="Banner" width="800" height="800">
 
 <hr>
 
