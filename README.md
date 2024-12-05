@@ -14,7 +14,7 @@
     * F1
 
 * **Profesor**
-    * Willian romero
+    * Willian  Romero Serrano
 
 
 ## Introduccion
@@ -84,25 +84,15 @@
     * Integración con sistemas de diagnóstico clínico: El modelo puede integrarse con plataformas hospitalarias o clínicas para facilitar la interpretación médica y la recomendación de tratamientos.
 
 
-## Dataset
 
-*  El dataset contiene imagenes oculares divididos en tres directorios en (`train`, `test` y `validacion`) las cuales contiene subdirectorios divididos en tres categorias:
-    * **Immature** 
-    * **Mature**
-    * **Normal**
+## Diapositivas
 
-## Images
+[Diapositivas](Diapositivas/Diapositivas.pdf)
 
-![Cataratas](Images/Cataratas.png)
+## Video
 
+[Video](https://youtu.be/DaYK7r5ny7g)
 
-## Tamaño del Dataset
+## Repositorio
 
-* **train**
-    * Contiene 1753 imagenes con tamaño de 150px x 150px.
-* **valid**
-    * Contiene 760 imagenes con tamaño de 150px x 150px.
-* **test**
-    * Contiene 714 imagenes con tamaño de 150px x 150px.
-
-
+[Github](https://github.com/Gilgamesh06/Proyecto)
